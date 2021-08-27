@@ -55,5 +55,20 @@ Projeto de Sistemas Operacionais para simulador a criação, leitura e pesquisa 
 
 ##
 
+# Módulos e Packages Utilizadas 💡
 
+- 🔗[Inspect - live objects](https://docs.python.org/3/library/inspect.html)
+- 🔗[Tkinter - Python Interface](https://docs.python.org/3/library/tkinter.html)
+- 🔗[Copy - Deep copy operations](https://docs.python.org/3/library/copy.html)
+- 🔗[Re - Regular expression operations](https://docs.python.org/3/library/re.html)
+- 🔗[Os - Miscellaneous operating system interfaces](https://docs.python.org/3/library/os.html)
+
+##
+
+# Autor 🖥
+
+<p align="center">
+  <img src= "https://avatars.githubusercontent.com/u/89622689?v=4" width = "250px"></a>
+  <h3 align="center">Davi Alves da Costa</h3>
+</p>
 
