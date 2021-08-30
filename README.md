@@ -1,5 +1,5 @@
 # Simulador - Sistemas de Arquivos 📁
-Projeto de Sistemas Operacionais para simulador a criação, leitura e pesquisa em arquivos
+Projeto de Sistemas Operacionais para simulador a criação, leitura, gravação e pesquisa em arquivos
 
 ## Interface :desktop_computer:<br>
  Desenvolvido em Python utilizando a ferramenta PyCharm, a interface gráfica foi criada a partir do package tkinter. E conta com:
