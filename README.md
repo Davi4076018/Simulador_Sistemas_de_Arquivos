@@ -55,13 +55,13 @@ Projeto de Sistemas Operacionais para simulador a criação, leitura e pesquisa 
 
 ##
 
-# Módulos e Packages Utilizadas 💡
+# Módulos e Packages Utilizados 💡
 
-- 🔗[Inspect - live objects](https://docs.python.org/3/library/inspect.html)
-- 🔗[Tkinter - Python Interface](https://docs.python.org/3/library/tkinter.html)
-- 🔗[Copy - Deep copy operations](https://docs.python.org/3/library/copy.html)
-- 🔗[Re - Regular expression operations](https://docs.python.org/3/library/re.html)
-- 🔗[Os - Miscellaneous operating system interfaces](https://docs.python.org/3/library/os.html)
+- 🔗 [Inspect - live objects](https://docs.python.org/3/library/inspect.html)
+- 🔗 [Tkinter - Python Interface](https://docs.python.org/3/library/tkinter.html)
+- 🔗 [Copy - Deep copy operations](https://docs.python.org/3/library/copy.html)
+- 🔗 [Re - Regular expression operations](https://docs.python.org/3/library/re.html)
+- 🔗 [Os - Miscellaneous operating system interfaces](https://docs.python.org/3/library/os.html)
 
 ##
 
