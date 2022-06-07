@@ -65,7 +65,7 @@ Projeto de Sistemas Operacionais para simulador a criação, leitura, gravação
 
 ##
 
-# Autor 🖥
+# Autor ⌨️
 
 <p align="center">
   <img src= "https://avatars.githubusercontent.com/u/89622689?v=4" width = "250px"></a>
